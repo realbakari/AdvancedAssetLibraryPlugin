@@ -1,0 +1,9 @@
+{
+    "name": "Advanced Asset Library",
+    "main": "main.js",
+    "permissions": [
+        "network",
+        "filesystem",
+        "asset_library"
+    ]
+}
